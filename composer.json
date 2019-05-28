@@ -1,0 +1,8 @@
+{
+    "name": "ver-game-of-thrones-temporada-8-capitulo-6-online-completo-en-espanol-latino/subtitulado",
+    "description": "Ver Game of Thrones Temporada 8 Capitulo 6 Pelicula 2019 Completa online en Espanol Latino.",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
